@@ -1,0 +1,10 @@
+/vendor
+/logs
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+*.code-workspace
+.vscode/
+.editorconfig
+*.htaccess
